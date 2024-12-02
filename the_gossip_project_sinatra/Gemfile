@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'sinatra'
+gem 'rerun'
+gem 'rack'
+gem 'wdm', '>= 0.1.0', platforms: :mingw
+gem 'rackup'
+gem 'sqlite3'
+gem 'activerecord'
+gem 'webrick', '~> 1.7'
+
